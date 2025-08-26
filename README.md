@@ -1,2 +1,0 @@
-oddpmod
-# Removed Telegram Option
