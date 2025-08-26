@@ -1,2 +1,2 @@
 # dadb_dpmod
-# Skipped Telegram A/c
+# Removed Telegram Option
