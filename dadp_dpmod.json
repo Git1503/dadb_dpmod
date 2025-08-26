@@ -19,5 +19,13 @@
     "password": "11e8d836540d1552",
     "expiresAt": "2026-12-30",
     "allowOffline": false
-  }
+  },
+  {
+    "id": "11e8d836540d1552",
+    "username": "d754482f5b890729",
+    "password": "matrix",
+    "expiresAt": "2026-12-30",
+    "allowOffline": false
+  },
+  
 ]
